@@ -1,2 +1,9 @@
-# Corel-Draw-X3-Fake-Key-Generator
-Corel Draw X3 Fake Key Generator Remake | Full Project
+# Corel Draw X3 Fake Key Generator Remake
+
+Tools used (to reverse):
+- Visual Studio 2010
+- Process Hacker
+- Slyther r.0
+
+# .prj Information
+- Built with .NET Framework 4 (Client Profile)
